@@ -2,7 +2,7 @@
 
 ## Descripció
 
-Aquesta pràctica s’ha realitzat sota el context de l’assignatura _Tipologia i cicle de vida de les dades_, pertanyent al Máster en ciència de dades de la universitat Oberta de Catalunya. Consisteix en aplicar tècniques de _web scraping_, mitjançant el llenguatge de programació python per extreure així dades de la web _www.aco.es_ y generar un _dataset_.
+Aquesta pràctica s’ha realitzat sota el context de l’assignatura _Tipologia i cicle de vida de les dades_, pertanyent al Máster en ciència de dades de la universitat Oberta de Catalunya. Consisteix en aplicar tècniques de _web scraping_, mitjançant el llenguatge de programació python per extreure així dades de la web _www.aco.es_ y generar un _dataset_. Ens basem en el fet que som una de les empreses dominants del mercat i volem fer un anàlisi de mercat amb el competidor principal, per això extrèiem tota la informació disponible en la pagina web del competidor per poder classificar els seus productes en relació amb els nostres i fer una comparació en quant a preus i propietats.
 
 ## Miembros del equipo
 
