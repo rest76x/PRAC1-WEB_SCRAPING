@@ -99,7 +99,7 @@ class ACO_Scraper():
                     info[5]='"'+campo.text+'"'
             if(len(self.data)==0):
                 #Posar els noms de les dades
-                self.data.append(["Date","Code","PVP","Description1","Description2","Tipo"])
+                self.data.append(["Date","Code","PVP","Description1","Description2","Type"])
             self.data.append(info)
         return True
     
